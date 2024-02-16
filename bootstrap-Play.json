@@ -1,4 +1,3 @@
-
 {
     "clientJvm17Arguments": [
         "-XX:+DisableAttachMechanism",
