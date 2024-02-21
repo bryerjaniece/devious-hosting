@@ -38,7 +38,7 @@
         "lwjgl-3.3.2.jar": "f8016606e74f3cafd63eae07b1331f903f999c9f40726c838399a144c3809217",
         "http-api-1.0.20-EXPERIMENTAL.jar": "d3cea22c04a458133011479d18b965d150baa13c33870e3eb591c54665bfd500",
         "commons-lang3-3.11.jar": "4ee380259c068d1dbe9e84ab52186f2acd65de067ec09beff731fca1697fdb16",
-        "runelite-api-1.0.20-EXPERIMENTAL.jar": "93d04244d75a68207cbf05f079a28e1f40bb32eb8b94984cc259584d5cac9854",
+        "runelite-api-1.0.20-EXPERIMENTAL.jar": "f5aace2a52f92c9118b8df382137bb3ebef65fe541f89af95ad48f516509d7f4",
         "flatlaf-extras-3.2.5-rl4.jar": "8ed1c0ecc09bdaf7224e3750bf3fa29266295f902d3ceeaa1380b26c888b761f",
         "lwjgl-3.3.2-natives-windows-x86.jar": "21e6f5c1c68a171398daf7785ffb2797da89242f90d19e24236563f7c0b1f7e0",
         "engine.io-client-1.0.0.jar": "191a5c2d777c22d258d414f94ff96a6620a93a38beec29a63c2c172794c87f0f",
@@ -177,7 +177,7 @@
             "path": "https://github.com/bryerjaniece/devious-hosting/raw/master/experimental/runelite-api-1.0.20-EXPERIMENTAL.jar",
             "size": 1500398,
             "name": "runelite-api-1.0.20-EXPERIMENTAL.jar",
-            "hash": "93d04244d75a68207cbf05f079a28e1f40bb32eb8b94984cc259584d5cac9854"
+            "hash": "f5aace2a52f92c9118b8df382137bb3ebef65fe541f89af95ad48f516509d7f4"
         },
         {
             "path": "https://github.com/bryerjaniece/devious-hosting/raw/master/experimental/http-api-1.0.20-EXPERIMENTAL.jar",
