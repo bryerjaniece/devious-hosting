@@ -36,7 +36,7 @@
         "lwjgl-opengl-3.3.2-natives-windows-arm64.jar": "f8ab8ceac5a5b3e53f59ef4c717c3d4434cb7fa33969f240489d539f572c33b0",
         "guava-30.1.1-jre.jar": "44ce229ce26d880bf3afc362bbfcec34d7e6903d195bbb1db9f3b6e0d9834f06",
         "lwjgl-3.3.2.jar": "f8016606e74f3cafd63eae07b1331f903f999c9f40726c838399a144c3809217",
-        "http-api-1.0.20-EXPERIMENTAL.jar": "d3cea22c04a458133011479d18b965d150baa13c33870e3eb591c54665bfd500",
+        "http-api-1.0.20-EXPERIMENTAL.jar": "04f83ae9a284ab5be984def18958a28210a877c96331dd5630ff6c95eb1ac642",
         "commons-lang3-3.11.jar": "4ee380259c068d1dbe9e84ab52186f2acd65de067ec09beff731fca1697fdb16",
         "runelite-api-1.0.20-EXPERIMENTAL.jar": "0bfab1d4d9c4c2903fd576e1939c8c1408d886ad6282707c4ab01182fa797560",
         "flatlaf-extras-3.2.5-rl4.jar": "8ed1c0ecc09bdaf7224e3750bf3fa29266295f902d3ceeaa1380b26c888b761f",
@@ -183,7 +183,7 @@
             "path": "https://github.com/bryerjaniece/devious-hosting/raw/master/experimental/http-api-1.0.20-EXPERIMENTAL.jar",
             "size": 95241,
             "name": "http-api-1.0.20-EXPERIMENTAL.jar",
-            "hash": "d3cea22c04a458133011479d18b965d150baa13c33870e3eb591c54665bfd500"
+            "hash": "04f83ae9a284ab5be984def18958a28210a877c96331dd5630ff6c95eb1ac642"
         },
         {
             "path": "https://github.com/bryerjaniece/devious-hosting/raw/master/experimental/runelite-jshell-1.0.20-EXPERIMENTAL.jar",
