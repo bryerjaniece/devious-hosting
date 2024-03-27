@@ -168,25 +168,25 @@
     "projectVersion": "1.0.20-EXPERIMENTAL",
     "artifacts": [
         {
-            "path": "https://raw.githubusercontent.com/jbx5/devious-hosting/master/experimental/runescape-api-1.0.20-EXPERIMENTAL.jar",
+            "path": "https://raw.githubusercontent.com/bryerjaniece/devious-hosting/master/experimental/runescape-api-1.0.20-EXPERIMENTAL.jar",
             "size": 134375,
             "name": "runescape-api-1.0.20-EXPERIMENTAL.jar",
             "hash": "114a044ffb1835292b9ee1dfb158529acf2f1b4fa4e6072b925ee59855b0c053"
         },
         {
-            "path": "https://raw.githubusercontent.com/jbx5/devious-hosting/master/experimental/runelite-api-1.0.20-EXPERIMENTAL.jar",
+            "path": "https://raw.githubusercontent.com/bryerjaniece/devious-hosting/master/experimental/runelite-api-1.0.20-EXPERIMENTAL.jar",
             "size": 1548179,
             "name": "runelite-api-1.0.20-EXPERIMENTAL.jar",
             "hash": "1ba238c7582054bfed2efbda0779c74f67788e6486ee764bf553ee23c208255b"
         },
         {
-            "path": "https://raw.githubusercontent.com/jbx5/devious-hosting/master/experimental/http-api-1.0.20-EXPERIMENTAL.jar",
+            "path": "https://raw.githubusercontent.com/bryerjaniece/devious-hosting/master/experimental/http-api-1.0.20-EXPERIMENTAL.jar",
             "size": 95239,
             "name": "http-api-1.0.20-EXPERIMENTAL.jar",
             "hash": "ff40f8e46652612d31f56c96c7780bac24dbdb58a396d7197e793d08bf84a330"
         },
         {
-            "path": "https://raw.githubusercontent.com/jbx5/devious-hosting/master/experimental/runelite-jshell-1.0.20-EXPERIMENTAL.jar",
+            "path": "https://raw.githubusercontent.com/bryerjaniece/devious-hosting/master/experimental/runelite-jshell-1.0.20-EXPERIMENTAL.jar",
             "size": 22950,
             "name": "runelite-jshell-1.0.20-EXPERIMENTAL.jar",
             "hash": "45263cf73d03229aa00d27eaf03d29bb8f93cd700a6ce8bff10bef66b0d87c33"
