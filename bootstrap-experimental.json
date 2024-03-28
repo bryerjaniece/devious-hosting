@@ -49,7 +49,7 @@
         "discord-1.4.jar": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5",
         "jocl-1.0-macos-x64.jar": "2bcb853daff68fe4faed28f871624a428c5db90f9e3ecb4286df8aeca4b93b38",
         "lwjgl-opencl-3.3.2.jar": "da0392abcea5121f5edd9042012600584ac628f4a18fcf5c1bce60f3f9f6a33a",
-        "runescape-api-1.0.20-EXPERIMENTAL.jar": "114a044ffb1835292b9ee1dfb158529acf2f1b4fa4e6072b925ee59855b0c053",
+        "runescape-api-1.0.20-EXPERIMENTAL.jar": "bb2af91f5b5c9af6024300267feb21819dc8ecdb01bb05fda6eecc48e2c74a35",
         "commons-io-2.8.0.jar": "02f291e5d1243dc143496e3cbbb40a1ced47aa58f2d633d3e38780cd068d5074",
         "reactive-streams-1.0.3.jar": "1dee0481072d19c929b623e155e14d2f6085dc011529a0a0dbefc84cf571d865",
         "rxjava-3.1.2.jar": "8d784075bec0b7c55042c109a4de8923b3b6d2ebd2e00912d518f07240f9c23a",
@@ -171,7 +171,7 @@
             "path": "https://raw.githubusercontent.com/bryerjaniece/devious-hosting/master/experimental/runescape-api-1.0.20-EXPERIMENTAL.jar",
             "size": 134375,
             "name": "runescape-api-1.0.20-EXPERIMENTAL.jar",
-            "hash": "114a044ffb1835292b9ee1dfb158529acf2f1b4fa4e6072b925ee59855b0c053"
+            "hash": "bb2af91f5b5c9af6024300267feb21819dc8ecdb01bb05fda6eecc48e2c74a35"
         },
         {
             "path": "https://raw.githubusercontent.com/bryerjaniece/devious-hosting/master/experimental/runelite-api-1.0.20-EXPERIMENTAL.jar",
